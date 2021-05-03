@@ -1,0 +1,63 @@
+[AutoProxy 0.2.9]
+! Checksum: +K0JrF7GK5wCdyiBZU99DQ
+! Expires: 6h
+! Title: TSILWFG(Reversed GFWList)
+! GFWList for people outside mainland China
+! Last Modified: Wed, 22 May 2019 12:25:58 -0400
+!
+! HomePage: https://github.com/gfwlist/tsilwfg
+! License: https://raw.githubusercontent.com/gfwlist/tsilwfg/master/COPYING.txt
+!
+! TSILWFG stands for reversed GFWList, it is for
+! people who miss GFW a lot. Please contact us
+! regarding URL submission / removal, or 
+! suggestion / enhancement at issue tracker:
+! https://github.com/gfwlist/tsilwfg/issues/.
+
+!##############General List Start###############
+!---Bilibili---
+||api.bilibili.com
+
+!---Douban---
+||douban.fm
+
+!---iQiYi---
+||iqiyi.com
+
+!---KuGou---
+||kugou.com
+
+!---Kuwo---
+||kuwo.cn
+
+!---LeTV---
+||le.com
+||lecloud.com
+||letv.cn
+||letv.com
+
+!---Netease---
+||music.126.net
+||ip.ws.126.net
+||music.httpdns.c.163.com
+||ipservice.163.com
+||music.163.com
+
+!---Sohu---
+||hot.vrs.sohu.com
+
+!---Tencent---
+||3g.music.qq.com
+||mqqplayer.3g.qq.com
+||proxy.music.qq.com
+||proxymc.qq.com
+||y.qq.com
+
+!---Youku---
+||youku.com
+||tudou.com
+
+||tianyancha.com
+!##############General List End#################
+!---------------------EOF-----------------------
+
